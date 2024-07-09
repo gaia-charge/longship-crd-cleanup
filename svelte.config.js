@@ -7,7 +7,7 @@ const config = {
 			fallback: 'index.html'
 		}),
 		paths: {
-			base: '/transcribe-vtt'
+			base: '/vtt-to-markdown'
 		},
 	}
 };

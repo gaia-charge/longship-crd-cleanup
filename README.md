@@ -1,6 +1,6 @@
-# `transcribe-vtt`
+# [`vtt-to-markdown`]()
 
-📝 Tool converting .vtt files into Markdown transcription 
+📝 Tool converting .vtt files into Markdown 
 
 ## Developing
 
