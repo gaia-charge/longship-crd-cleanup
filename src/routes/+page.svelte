@@ -105,6 +105,10 @@
 	};
 </script>
 
+<svelte:head>
+  <title>VTT to Markdown</title>
+</svelte:head>
+
 <div class="mx-auto mt-8 w-1/2 text-center">
 	<Heading tag="h1" class="mb-4" customSize="text-4xl font-extrabold md:text-5xl lg:text-6xl"
 		>📝 Convert VTT to Markdown</Heading
