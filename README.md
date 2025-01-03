@@ -1,6 +1,6 @@
-# [`vtt-to-markdown`]()
+# [`longship-crd-cleanup`]()
 
-📝 Tool converting .vtt files into Markdown 
+📝 Tool converting cleaning up CRDs exported from Longship  
 
 ## Developing
 

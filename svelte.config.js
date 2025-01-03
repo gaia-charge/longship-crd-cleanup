@@ -7,7 +7,7 @@ const config = {
 			fallback: 'index.html'
 		}),
 		paths: {
-			base: '/vtt-to-markdown'
+			base: '/longship-crd-cleanup'
 		},
 	}
 };
